@@ -1,5 +1,12 @@
 ﻿# Telco customer ML demo
 
+## Project Structure
+- `main.py`: The backend/app server file
+- `train_models.py`: Script used to train the machine learning model
+- `index.html`: Frontend user interface
+- `telco_churn.csv`: Dataset used for the project
+- `requirements.txt`: Python package dependencies
+
 Train the regression, logistic regression, and decision tree models and print holdout metrics:
 
 ```powershell
